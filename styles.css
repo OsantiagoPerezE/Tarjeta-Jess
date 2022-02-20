@@ -302,3 +302,4 @@ input[id^='spoiler'] ~ .spoiler {
 input[id^='spoiler']:hover + label + .spoiler {
 	opacity: 1;
 }
+
