@@ -282,3 +282,6 @@ input[id^='spoiler'] ~ .spoiler {
 input[id^='spoiler']:checked + label + .spoiler {
 	opacity: 1;
 }
+
+
+
